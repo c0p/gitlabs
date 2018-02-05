@@ -6,7 +6,7 @@ var questions = [
 	"I like to do puzzles",
 	"I am good at working independently",
 	"I like to work in teams",
-	"I like to buid things",
+	"I like to build things",
 	"I like to do experiments"
 ];
 
